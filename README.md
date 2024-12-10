@@ -15,4 +15,13 @@ Our advanced cybersecurity offerings are built on AI and cloud technologies, tai
 
 ### **Our Mission**
 
-At VRV Security, our mission is to redefine cybersecurity by delivering adaptive, AI-driven solutions that anticipate and mitigate threats before they materialize. We aim to set the gold standard in proactive threat management and ensure our clients operate in a secure and resilient digital landscape. Our commitment to innovation and excellence has earned us a 95% client retention rate, a testament to our reliable and effective security measures. We strive to continue pushing boundaries and staying at the forefront of global cybersecurity.
+At VRV Security, our mission is to redefine cybersecurity by delivering adaptive, AI-driven solutions that anticipate and mitigate threats before they materialize.
+We aim to set the gold standard in proactive threat management and ensure our clients operate in a secure and resilient digital landscape. Our commitment to innovation and excellence has earned us a 95% client retention rate, a testament to our reliable and effective security measures. We strive to continue pushing boundaries and staying at the forefront of global cybersecurity.
+
+
+## Assignment: Log Analysis Script
+
+### **Objective**
+
+The goal of this assignment is to assess your ability to write a Python script that processes log files to extract and analyze key information. This assignment evaluates your proficiency in **file handling**, **string manipulation**, and **data analysis**, which are essential skills for cybersecurity-related programming tasks.
+
